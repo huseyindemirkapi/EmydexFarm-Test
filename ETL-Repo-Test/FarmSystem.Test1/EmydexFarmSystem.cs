@@ -34,7 +34,7 @@ namespace FarmSystem.Test1
             }
             else
             {
-                Console.WriteLine("There are no animals in the farm");
+                Console.WriteLine("There is no animal in the farm");
             }
             //Test 2 : Modify this method to make the animals talk
         }
@@ -56,7 +56,7 @@ namespace FarmSystem.Test1
                 }
             }
 
-            Console.WriteLine(count == 0 ? "There are no Animals in the Farm or Cannot identify the farm animals which can be milked" : "");
+            Console.WriteLine(count == 0 ? "There is no animal in the Farm or Cannot identify the farm animals which can be milked" : "");
         }
 
         //TEST 4
