@@ -1,0 +1,7 @@
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\Corco\Source\Repos\ETL-Repo-Test\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
+C:\Users\Corco\source\repos\ETL-Repo-Test\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojAssemblyReference.cache
